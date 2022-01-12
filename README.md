@@ -36,7 +36,7 @@ yarn add ejs
 ### Contributing
 
 * [Nazrul Islam Nadeem](https://github.com/nzldev)
-* [Rasel](https://github.com/monirul017)
+* [Monirul Islam Rasel](https://github.com/monirul017)
 
 ### License
 
